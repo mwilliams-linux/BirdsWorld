@@ -5,7 +5,7 @@ NodeJS application with MongoDB created for the Datadog course
 1. To start developing locally, clone the project:
 
     ```sh
-    git clone https://github.com/em4o/BirdsWorld.git
+    git clone https://github.com/mwilliams-linux/BirdsWorld/BirdsWorld.git
     ```
 2.  Install the dependencies:
 
